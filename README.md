@@ -1,82 +1,96 @@
-# Aadhya Joshi
+<div align="center">
 
-> engineering student · software · AI · cybersecurity  
-> building things, breaking things, figuring out why they work.
+# AADHYA
 
-```
-$ whoami
-aadhya
+**engineering student · builder · curious human**
 
-$ cat /etc/currently-learning
-linux
-cybersecurity
-ai-systems
-software-engineering
-```
+*I like turning questions into software.*
 
-## 01 / things I've built
+[ GitHub ](https://github.com/aady11) · [ Projects ](https://github.com/aady11?tab=repositories)
 
-**[FebSense](https://github.com/aady11/FebSense)**  
-AI co-pilot for semiconductor yield analysis — defect risk, sensor drivers, and financial impact.
-
-`Python` `Pandas` `Scikit-learn` `SHAP` `Streamlit`
-
-**[Commit Crimes](https://github.com/aady11/commit-crimes)**  
-A browser game where Git mistakes become missions. Merge conflicts, force pushes, deleted branches, leaked secrets — the usual crimes.
-
-`React` `TypeScript` `Vite` `Tailwind`
-
-**[AtlasAI](https://github.com/aady11/atlas-ai)**  
-A research and learning workspace for exploring topics, organizing ideas, and building learning paths.
-
-`React` `JavaScript` `Vite` `Tailwind`
-
-**[CampusStay](https://github.com/aady11/campus_stay)**  
-A role-based hostel management platform for students, parents, wardens, and administrators.
-
-`React` `TypeScript` `JavaScript` `Vite`
+</div>
 
 ---
 
-## 02 / currently hacking on
+### `01 — identity`
 
-**AgentGuard**  
-Security infrastructure for AI agents — starting with repository scanning for exposed secrets and vulnerabilities.
+I'm an engineering student exploring the intersection of **software, AI, systems, and cybersecurity**.
+
+I don't really have a single lane yet.
+
+That's intentional.
+
+I'm interested in the layer underneath the interface —  
+**how systems work, where they break, and what can be built from there.**
+
+---
+
+### `02 — things with my fingerprints on them`
+
+| project | what it is |
+| --- | --- |
+| **[FebSense](https://github.com/aady11/FebSense)** | AI-assisted semiconductor yield analysis |
+| **[Commit Crimes](https://github.com/aady11/commit-crimes)** | A game for learning Git by breaking it |
+| **[AtlasAI](https://github.com/aady11/atlas-ai)** | Research + learning workspace |
+| **[CampusStay](https://github.com/aady11/campus_stay)** | Hostel management platform |
+
+> Some are polished. Some are experiments.  
+> All of them taught me something.
+
+---
+
+### `03 — current obsession`
+
+**AgentGuard**
+
+Security infrastructure for AI agents.
+
+The idea: make it easier to catch things that shouldn't make it into a repository — exposed secrets, vulnerable components, and other security problems.
 
 `security` `AI agents` `Python`
 
 ---
 
-## 03 / my toolbox
+### `04 — stack`
+
+**Languages**  
+`Python` `JavaScript` `TypeScript` `C/C++`
+
+**Build with**  
+`React` `Vite` `Tailwind` `Streamlit`
+
+**Data / AI**  
+`Pandas` `NumPy` `Scikit-learn` `SHAP`
+
+**Systems**  
+`Linux` `WSL` `Git`
+
+---
+
+### `05 — currently`
 
 ```text
-languages     Python · JavaScript · TypeScript · C/C++
-web           React · HTML · CSS · Tailwind
-data / ML     Pandas · NumPy · Scikit-learn · SHAP
-systems       Linux · WSL · Git · GitHub
+learning      ███████████████░░░  Linux / cybersecurity
+building      ████████████░░░░░░  AI + software
+exploring     ██████████░░░░░░░░  systems
+debugging     ██████████████████  apparently always
 ```
 
 ---
 
-## 04 / the current loop
+### `06 — philosophy`
 
-```
-learn → build → break → debug → understand → repeat
-```
-
-I prefer learning by building real things instead of just collecting tutorials.
-
-Most repositories here are experiments, projects, or things I'm actively figuring out.
+> **Don’t just use the thing.  
+> Take it apart.  
+> Understand it.  
+> Build your own version.**
 
 ---
 
-## 05 / terminal state
+<div align="center">
 
-```text
-OS          Linux / WSL
-EDITOR      whatever gets the job done
-MODE        learning
-STATUS      compiling...
-```
+`aady11` · still under construction
 
-[github.com/aady11](https://github.com/aady11)
+**[ explore the repositories → ](https://github.com/aady11?tab=repositories)**
+
+</div>
