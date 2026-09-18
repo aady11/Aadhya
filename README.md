@@ -1,96 +1,129 @@
 <div align="center">
 
-# AADHYA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D9FF,100:7C3AED&height=160&section=header&text=AADHYA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-**engineering student · builder · curious human**
+### `engineering student` · `builder` · `curious human`
 
-*I like turning questions into software.*
+**software · AI · systems · cybersecurity**
 
-[ GitHub ](https://github.com/aady11) · [ Projects ](https://github.com/aady11?tab=repositories)
+*turning questions into things that run.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=aady11&style=flat-square&color=6C63FF)
 
 </div>
 
----
-
-### `01 — identity`
-
-I'm an engineering student exploring the intersection of **software, AI, systems, and cybersecurity**.
-
-I don't really have a single lane yet.
-
-That's intentional.
-
-I'm interested in the layer underneath the interface —  
-**how systems work, where they break, and what can be built from there.**
-
----
-
-### `02 — things with my fingerprints on them`
-
-| project | what it is |
-| --- | --- |
-| **[FebSense](https://github.com/aady11/FebSense)** | AI-assisted semiconductor yield analysis |
-| **[Commit Crimes](https://github.com/aady11/commit-crimes)** | A game for learning Git by breaking it |
-| **[AtlasAI](https://github.com/aady11/atlas-ai)** | Research + learning workspace |
-| **[CampusStay](https://github.com/aady11/campus_stay)** | Hostel management platform |
-
-> Some are polished. Some are experiments.  
-> All of them taught me something.
-
----
-
-### `03 — current obsession`
-
-**AgentGuard**
-
-Security infrastructure for AI agents.
-
-The idea: make it easier to catch things that shouldn't make it into a repository — exposed secrets, vulnerable components, and other security problems.
-
-`security` `AI agents` `Python`
-
----
-
-### `04 — stack`
-
-**Languages**  
-`Python` `JavaScript` `TypeScript` `C/C++`
-
-**Build with**  
-`React` `Vite` `Tailwind` `Streamlit`
-
-**Data / AI**  
-`Pandas` `NumPy` `Scikit-learn` `SHAP`
-
-**Systems**  
-`Linux` `WSL` `Git`
-
----
-
-### `05 — currently`
+## ◈ `identity`
 
 ```text
-learning      ███████████████░░░  Linux / cybersecurity
-building      ████████████░░░░░░  AI + software
-exploring     ██████████░░░░░░░░  systems
-debugging     ██████████████████  apparently always
+┌──────────────────────────────────────────────────────┐
+│  AADHYA / aady11                                    │
+│                                                      │
+│  engineering student                                │
+│  building → software + AI + security                 │
+│  learning  → Linux + systems                         │
+│  mindset   → understand it, then build it            │
+└──────────────────────────────────────────────────────┘
 ```
 
----
+> I don’t really have a single lane yet.
+>
+> That’s intentional.
 
-### `06 — philosophy`
+I'm interested in the layer underneath the interface — **how systems work, where they break, and what can be built from there.**
 
-> **Don’t just use the thing.  
-> Take it apart.  
-> Understand it.  
-> Build your own version.**
+## ◈ `selected builds`
 
----
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 [FebSense](https://github.com/aady11/FebSense)
+
+AI-assisted semiconductor yield analysis.
+
+`Python` `ML` `SHAP` `Streamlit`
+
+</td>
+<td width="50%">
+
+### ⚔️ [Commit Crimes](https://github.com/aady11/commit-crimes)
+
+Learn Git by surviving Git disasters.
+
+`React` `TypeScript` `Vite`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🔭 [AtlasAI](https://github.com/aady11/atlas-ai)
+
+Research + learning workspace.
+
+`React` `Vite` `Tailwind`
+
+</td>
+<td>
+
+### 🏫 [CampusStay](https://github.com/aady11/campus_stay)
+
+Smart hostel management platform.
+
+`React` `TypeScript` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+## ◈ `currently building`
 
 <div align="center">
 
-`aady11` · still under construction
+### 🛡️ AgentGuard
 
-**[ explore the repositories → ](https://github.com/aady11?tab=repositories)**
+**Security infrastructure for AI agents.**
+
+Scanning repositories for exposed secrets and vulnerabilities.
+
+`SECURITY` · `AI AGENTS` · `PYTHON`
+
+</div>
+
+## ◈ `toolbox`
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+
+## ◈ `current state`
+
+```text
+learning      ███████████████░░░  linux / cybersecurity
+building      ████████████░░░░░░  AI / software
+exploring     ██████████░░░░░░░░  systems
+debugging     ██████████████████  always
+```
+
+## ◈ `the rule`
+
+<div align="center">
+
+> **DON’T JUST USE THE THING.**
+>
+> `take it apart → understand it → rebuild it`
+
+</div>
+
+<div align="center">
+
+---
+
+`aady11` · `learning in public` · `still under construction`
+
+[ **EXPLORE THE REPOSITORIES →** ](https://github.com/aady11?tab=repositories)
 
 </div>
